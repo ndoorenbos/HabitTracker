@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="app_new_entry">New Entry</string>
+
+    <!-- Strings for displaying the contents of the records table -->
+    <string name="display_records_quantity">The records table contains </string>
+    <string name="display_records">records</string>
+
+
+    <!-- Strings for Menus -->
+    <string name="menu_main_new">New Entry</string>
+    <string name="menu_entry_save">Save</string>
+    <string name="menu_entry_home">Home</string>
+
+    <!-- Strings for UI Entry -->
+    <string name="entry_date">Record Date:</string>
+    <string name="entry_hint_day">01</string>
+    <string name="entry_hint_year">2016</string>
+    <string name="entry_steps">Steps Taken:</string>
+    <string name="entry_hint_steps">0</string>
+    <string name="entry_unit_steps">steps</string>
+    <string name="entry_weight">Current Weight:</string>
+    <string name="entry_hint_weight">0</string>
+    <string name="entry_unit_weight">lbs.</string>
+    <string name="entry_water">Water Intake:</string>
+    <string name="entry_hint_water">0</string>
+    <string name="entry_unit_water">oz.</string>
+    <string name="entry_meds">Medication Taken:</string>
+
+    <!-- Strings for the months of the year [CHAR LIMIT 15] -->
+    <string name="month_choose">Choose Month</string>
+    <string name="month_jan">January</string>
+    <string name="month_feb">February</string>
+    <string name="month_mar">March</string>
+    <string name="month_apr">April</string>
+    <string name="month_may">May</string>
+    <string name="month_jun">June</string>
+    <string name="month_jul">July</string>
+    <string name="month_aug">August</string>
+    <string name="month_sept">September</string>
+    <string name="month_oct">October</string>
+    <string name="month_nov">Novemeber</string>
+    <string name="month_dec">December</string>
+
+    <!-- Strings for Yes/No Answers [CHAR LIMIT 10] -->
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+
+</resources>
